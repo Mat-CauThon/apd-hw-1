@@ -1,5 +1,8 @@
 # HW1 — Reliable Swift Domain Logic
 
+See [Tasks and Grades](TASKS_AND_GRADES.md) for the 12-point base breakdown
+and the optional 4-point bonus.
+
 This is an individual assignment. You may discuss ideas, but the implementation, tests, plan, evidence, and explanations you submit must be your own. If you use an AI tool or agent, disclose the task, your review, and your decision in `AGENT_WORKLOG.md`; you remain responsible for all submitted work.
 
 ## Start here
